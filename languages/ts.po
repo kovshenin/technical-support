@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Technical Support\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-27 18:24+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Konstantin <kovshenin@live.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../technical-support.php:48
+msgid "Theme Layout"
+msgstr ""
+
+#: ../technical-support.php:48
+msgid "Admin Panel"
+msgstr ""
+
+#: ../technical-support.php:48
+msgid "Plugin Issue"
+msgstr ""
+
+#: ../technical-support.php:48
+msgid "Core Functionality"
+msgstr ""
+
+#: ../technical-support.php:48
+msgid "Core Upgrade Request"
+msgstr ""
+
+#: ../technical-support.php:48
+msgid "Plugin Upgrade Request"
+msgstr ""
+
+#: ../technical-support.php:48
+msgid "Theme Modification Request"
+msgstr ""
+
+#: ../technical-support.php:48
+msgid "General Support"
+msgstr ""
+
+#: ../technical-support.php:48
+msgid "Other (please state below)"
+msgstr ""
+
+#: ../technical-support.php:49
+msgid "New Support Ticket:"
+msgstr ""
+
+#: ../technical-support.php:50
+msgid "Attention! A support ticket has been submitted at"
+msgstr ""
+
+#: ../technical-support.php:50
+msgid " Details follow:"
+msgstr ""
+
+#: ../technical-support.php:50
+msgid "Name:"
+msgstr ""
+
+#: ../technical-support.php:50
+msgid "Related to:"
+msgstr ""
+
+#: ../technical-support.php:50
+msgid "Technical Support for WordPress (http://kovshenin.com/1992)"
+msgstr ""
+
+#: ../technical-support.php:81
+msgid "The <strong>Technical Support</strong> plugin requires configuration."
+msgstr ""
+
+#: ../technical-support.php:81
+msgid "Please proceed to the"
+msgstr ""
+
+#: ../technical-support.php:81
+msgid "plugin settings page"
+msgstr ""
+
+#: ../technical-support.php:144
+msgid "Please don't submit empty reports!"
+msgstr ""
+
+#: ../technical-support.php:180
+msgid "Your e-mail has been sent!"
+msgstr ""
+
+#: ../technical-support.php:181
+msgid "E-mail could not be sent, please contact support directly:"
+msgstr ""
+
+#: ../technical-support.php:189
+#: ../technical-support.php:309
+msgid "Technical Support"
+msgstr ""
+
+#: ../technical-support.php:201
+msgid "Please use this form to report encountered bugs, issues and other support requests directly to"
+msgstr ""
+
+#: ../technical-support.php:201
+msgid "Note that a response e-mail will be sent to the address associated with your profile"
+msgstr ""
+
+#: ../technical-support.php:201
+msgid "In order to change that please visit your"
+msgstr ""
+
+#: ../technical-support.php:201
+msgid "profile page"
+msgstr ""
+
+#: ../technical-support.php:254
+msgid "Title"
+msgstr ""
+
+#: ../technical-support.php:257
+msgid "Give your issue a short name"
+msgstr ""
+
+#: ../technical-support.php:261
+msgid "Related to"
+msgstr ""
+
+#: ../technical-support.php:272
+msgid "Pick one that suits your issue."
+msgstr ""
+
+#: ../technical-support.php:276
+msgid "Description"
+msgstr ""
+
+#: ../technical-support.php:279
+msgid "Please describe your issue as detailed as possible. If it's plugin related, please provide the full name of the plugin as well."
+msgstr ""
+
+#: ../technical-support.php:286
+msgid "Send Report"
+msgstr ""
+
+#: ../technical-support.php:287
+msgid "This report will be sent by e-mail to"
+msgstr ""
+
+#: ../technical-support.php:294
+msgid "Support provided by"
+msgstr ""
+
+#: ../technical-support.php:335
+msgid "Your <strong>Technical Support</strong> settings have been saved."
+msgstr ""
+
+#: ../technical-support.php:352
+msgid "Technical Support Settings"
+msgstr ""
+
+#: ../technical-support.php:353
+msgid "Support Provider"
+msgstr ""
+
+#: ../technical-support.php:354
+msgid "Make sure you test e-mail sending after setup. Also note that if WordPress cannot send e-mails, then neither can this plugin, so make sure WordPress e-mail settings are correctly configured. Also note that the e-mails will be sent from"
+msgstr ""
+
+#: ../technical-support.php:354
+msgid "so make sure you add it to your contacts. If you're encountering problems receiving e-mails, try setting up"
+msgstr ""
+
+#: ../technical-support.php:354
+msgid "for this domain"
+msgstr ""
+
+#: ../technical-support.php:360
+msgid "Provider Name"
+msgstr ""
+
+#: ../technical-support.php:363
+msgid "Use your company name, for instance: Microsoft"
+msgstr ""
+
+#: ../technical-support.php:367
+msgid "Provider E-mail"
+msgstr ""
+
+#: ../technical-support.php:370
+msgid "All reports will be sent to this address:"
+msgstr ""
+
+#: ../technical-support.php:374
+msgid "Provider Logo"
+msgstr ""
+
+#: ../technical-support.php:377
+msgid "The URL of the provider logo. Recommended size is 74x22 pixels"
+msgstr ""
+
+#: ../technical-support.php:381
+msgid "Provider URL"
+msgstr ""
+
+#: ../technical-support.php:384
+msgid "The URL of the provider homepage, please start with http"
+msgstr ""
+
+#: ../technical-support.php:390
+#: ../technical-support.php:395
+msgid "Topics"
+msgstr ""
+
+#: ../technical-support.php:390
+msgid "E-mail Formatting"
+msgstr ""
+
+#: ../technical-support.php:391
+msgid "Customize your technical support widget: topics and email formatting."
+msgstr ""
+
+#: ../technical-support.php:398
+msgid "Provide a return separated list of what topics you provide support on"
+msgstr ""
+
+#: ../technical-support.php:402
+msgid "E-mail Subject"
+msgstr ""
+
+#: ../technical-support.php:405
+msgid "Customize the subject format, use the"
+msgstr ""
+
+#: ../technical-support.php:405
+msgid "short-tag, for instance: New Ticket"
+msgstr ""
+
+#: ../technical-support.php:409
+msgid "Message Format"
+msgstr ""
+
+#: ../technical-support.php:412
+msgid "This is what you will receive by e-mail. Use the following tags:"
+msgstr ""
+
+#: ../technical-support.php:418
+msgid "Save Changes"
+msgstr ""
+

@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Technical Support\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-27 18:24+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Konstantin <kovshenin@live.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../technical-support.php:48
+msgid "Theme Layout"
+msgstr "Темы"
+
+#: ../technical-support.php:48
+msgid "Admin Panel"
+msgstr "Панель администратора"
+
+#: ../technical-support.php:48
+msgid "Plugin Issue"
+msgstr "Плагины"
+
+#: ../technical-support.php:48
+msgid "Core Functionality"
+msgstr "Ядро WordPress"
+
+#: ../technical-support.php:48
+msgid "Core Upgrade Request"
+msgstr "Обновление ядра"
+
+#: ../technical-support.php:48
+msgid "Plugin Upgrade Request"
+msgstr "Обновление плагина"
+
+#: ../technical-support.php:48
+msgid "Theme Modification Request"
+msgstr "Настройка темы"
+
+#: ../technical-support.php:48
+msgid "General Support"
+msgstr "Общая поддержка"
+
+#: ../technical-support.php:48
+msgid "Other (please state below)"
+msgstr "Другое (укажите ниже)"
+
+#: ../technical-support.php:49
+msgid "New Support Ticket:"
+msgstr "Новая заявка"
+
+#: ../technical-support.php:50
+msgid "Attention! A support ticket has been submitted at"
+msgstr "Внимание! Заявка на техподдержку с сайта"
+
+#: ../technical-support.php:50
+msgid " Details follow:"
+msgstr "Подробности:"
+
+#: ../technical-support.php:50
+msgid "Name:"
+msgstr "Имя:"
+
+#: ../technical-support.php:50
+msgid "Related to:"
+msgstr "Тема:"
+
+#: ../technical-support.php:50
+msgid "Technical Support for WordPress (http://kovshenin.com/1992)"
+msgstr "Техподдержка для WordPress (http://kovshenin.com/1992)"
+
+#: ../technical-support.php:81
+msgid "The <strong>Technical Support</strong> plugin requires configuration."
+msgstr "Плагин <strong>Техподдержка</strong> требует настройки."
+
+#: ../technical-support.php:81
+msgid "Please proceed to the"
+msgstr "Пройдите на страницу"
+
+#: ../technical-support.php:81
+msgid "plugin settings page"
+msgstr "настройки плагина"
+
+#: ../technical-support.php:144
+msgid "Please don't submit empty reports!"
+msgstr "Не отправляйте пустые сообщения!"
+
+#: ../technical-support.php:180
+msgid "Your e-mail has been sent!"
+msgstr "Ваше сообщение отправлено!"
+
+#: ../technical-support.php:181
+msgid "E-mail could not be sent, please contact support directly:"
+msgstr "Сообщение не может быть отправлено, пожалуйста обратитесь напрямую:"
+
+#: ../technical-support.php:189
+#: ../technical-support.php:309
+msgid "Technical Support"
+msgstr "Техподдержка"
+
+#: ../technical-support.php:201
+msgid "Please use this form to report encountered bugs, issues and other support requests directly to"
+msgstr "Используйте эту форму для отправки сообщений об ошибках, проблемах и других вопросов провайдеру"
+
+#: ../technical-support.php:201
+msgid "Note that a response e-mail will be sent to the address associated with your profile"
+msgstr "Учтите, что ответ придёт на эл. адрес указан в вашем профиле"
+
+#: ../technical-support.php:201
+msgid "In order to change that please visit your"
+msgstr "Для того, чтобы изменить, зайдите на"
+
+#: ../technical-support.php:201
+msgid "profile page"
+msgstr "страницу вашего профиля"
+
+#: ../technical-support.php:254
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../technical-support.php:257
+msgid "Give your issue a short name"
+msgstr "Опишите вопрос одной строкой"
+
+#: ../technical-support.php:261
+msgid "Related to"
+msgstr "Тема"
+
+#: ../technical-support.php:272
+msgid "Pick one that suits your issue."
+msgstr "Выберите суть вашего вопроса."
+
+#: ../technical-support.php:276
+msgid "Description"
+msgstr "Описание"
+
+#: ../technical-support.php:279
+msgid "Please describe your issue as detailed as possible. If it's plugin related, please provide the full name of the plugin as well."
+msgstr "Опишите вашу проблему как можно детальнее. Если она связана с каким-либо плагином, укажите имя плагина."
+
+#: ../technical-support.php:286
+msgid "Send Report"
+msgstr "Отправить"
+
+#: ../technical-support.php:287
+msgid "This report will be sent by e-mail to"
+msgstr "Эта заявка будет оптравлена по электронной почте на адрес"
+
+#: ../technical-support.php:294
+msgid "Support provided by"
+msgstr "Провайдер техподдержки:"
+
+#: ../technical-support.php:335
+msgid "Your <strong>Technical Support</strong> settings have been saved."
+msgstr "Настройки успешно сохранены."
+
+#: ../technical-support.php:352
+msgid "Technical Support Settings"
+msgstr "Настройки плагина: Техподдержка"
+
+#: ../technical-support.php:353
+msgid "Support Provider"
+msgstr "Провайдер техподдержки"
+
+#: ../technical-support.php:354
+msgid "Make sure you test e-mail sending after setup. Also note that if WordPress cannot send e-mails, then neither can this plugin, so make sure WordPress e-mail settings are correctly configured. Also note that the e-mails will be sent from"
+msgstr "Попробуйте отправить пробное письмо после настройки плагина. Так же учтите, что если WordPress не может слать электронные письма, то и у плагина не получится, так что дважды проверьте конфигурацию вашей установки. Так же учтите, что письма будут высылаться с адреса "
+
+#: ../technical-support.php:354
+msgid "so make sure you add it to your contacts. If you're encountering problems receiving e-mails, try setting up"
+msgstr "так что рекомендуем добавить в список своих контактов. Если же вы столкнётесь с проблемами получения писем, попробуйте установить"
+
+#: ../technical-support.php:354
+msgid "for this domain"
+msgstr "для этого домена"
+
+#: ../technical-support.php:360
+msgid "Provider Name"
+msgstr "Имя"
+
+#: ../technical-support.php:363
+msgid "Use your company name, for instance: Microsoft"
+msgstr "Используйте название вашей компании, к примеру Майкрософт"
+
+#: ../technical-support.php:367
+msgid "Provider E-mail"
+msgstr "Адрес эл. почты"
+
+#: ../technical-support.php:370
+msgid "All reports will be sent to this address:"
+msgstr "Все заявки будут высланы на этот адрес:"
+
+#: ../technical-support.php:374
+msgid "Provider Logo"
+msgstr "Логотип"
+
+#: ../technical-support.php:377
+msgid "The URL of the provider logo. Recommended size is 74x22 pixels"
+msgstr "URL к логотипу провайдера. Рекомендуемый размер - 74х22 пикселя"
+
+#: ../technical-support.php:381
+msgid "Provider URL"
+msgstr "Веб-сайт"
+
+#: ../technical-support.php:384
+msgid "The URL of the provider homepage, please start with http"
+msgstr "Веб-сайт провайдера, начинайте с http"
+
+#: ../technical-support.php:390
+#: ../technical-support.php:395
+msgid "Topics"
+msgstr "Разделы"
+
+#: ../technical-support.php:390
+msgid "E-mail Formatting"
+msgstr "Форматирование письма"
+
+#: ../technical-support.php:391
+msgid "Customize your technical support widget: topics and email formatting."
+msgstr "Настройте ваш виджет: темы и форматирование письма."
+
+#: ../technical-support.php:398
+msgid "Provide a return separated list of what topics you provide support on"
+msgstr "Напишите список тем, по которым вы осуществляете поддержку"
+
+#: ../technical-support.php:402
+msgid "E-mail Subject"
+msgstr "Тема письма"
+
+#: ../technical-support.php:405
+msgid "Customize the subject format, use the"
+msgstr "Настройте формат темы письма, используйте тэг"
+
+#: ../technical-support.php:405
+msgid "short-tag, for instance: New Ticket"
+msgstr "например: Новая заявка"
+
+#: ../technical-support.php:409
+msgid "Message Format"
+msgstr "Формат сообщения"
+
+#: ../technical-support.php:412
+msgid "This is what you will receive by e-mail. Use the following tags:"
+msgstr "Это то, что вы получити по электронной почте. Используйте следующие метки:"
+
+#: ../technical-support.php:418
+msgid "Save Changes"
+msgstr "Сохранить"
+

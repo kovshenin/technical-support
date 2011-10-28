@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Technical Support\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-27 19:01+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Konstantin <kovshenin@live.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../technical-support.php:48
+msgid "Theme Layout"
+msgstr "עיצוב תבנית"
+
+#: ../technical-support.php:48
+msgid "Admin Panel"
+msgstr "לוח ניהול"
+
+#: ../technical-support.php:48
+msgid "Plugin Issue"
+msgstr "טיפול בתוספים"
+
+#: ../technical-support.php:48
+msgid "Core Functionality"
+msgstr "פונקציונאליות של האתר"
+
+#: ../technical-support.php:48
+msgid "Core Upgrade Request"
+msgstr "עדכון גרסת מערכת"
+
+#: ../technical-support.php:48
+msgid "Plugin Upgrade Request"
+msgstr "בקשה לעדכון תוספים"
+
+#: ../technical-support.php:48
+msgid "Theme Modification Request"
+msgstr "בקשה לשינויים בתבנית האתר (ערכת העיצוב)"
+
+#: ../technical-support.php:48
+msgid "General Support"
+msgstr "תמיכה טכנית"
+
+#: ../technical-support.php:48
+msgid "Other (please state below)"
+msgstr "אחר (נא לציין מתחת)"
+
+#: ../technical-support.php:49
+msgid "New Support Ticket:"
+msgstr "קריאת שירות חדשה:"
+
+#: ../technical-support.php:50
+msgid "Attention! A support ticket has been submitted at"
+msgstr "קריאת שירות חדשה נשלחה מ"
+
+#: ../technical-support.php:50
+msgid " Details follow:"
+msgstr "פרטים נוספים"
+
+#: ../technical-support.php:50
+msgid "Name:"
+msgstr "שם:"
+
+#: ../technical-support.php:50
+msgid "Related to:"
+msgstr "בקשר ל:"
+
+#: ../technical-support.php:50
+msgid "Technical Support for WordPress (http://kovshenin.com/1992)"
+msgstr "תמיכה טכנית וסיוע לוורדפרס"
+
+#: ../technical-support.php:81
+msgid "The <strong>Technical Support</strong> plugin requires configuration."
+msgstr "התוסף <strong>Technical Support</strong> דורש קונפיגורציה."
+
+#: ../technical-support.php:81
+msgid "Please proceed to the"
+msgstr "יש לגשת אל"
+
+#: ../technical-support.php:81
+msgid "plugin settings page"
+msgstr "עמוד הגדרות התוסף"
+
+#: ../technical-support.php:144
+msgid "Please don't submit empty reports!"
+msgstr "נא לא לשלוח פניות ריקות!"
+
+#: ../technical-support.php:180
+msgid "Your e-mail has been sent!"
+msgstr "!המייל שלך נשלח"
+
+#: ../technical-support.php:181
+msgid "E-mail could not be sent, please contact support directly:"
+msgstr "לא ניתן לשלוח את הדואר, יש ליצור קשר ישירות עם התמיכה:"
+
+#: ../technical-support.php:189
+#: ../technical-support.php:309
+msgid "Technical Support"
+msgstr "תמיכה טכנית"
+
+#: ../technical-support.php:201
+msgid "Please use this form to report encountered bugs, issues and other support requests directly to"
+msgstr "השתמשו בטופס זה כדי לדווח על באגים, תקלות, בקשות לשדרוגים, שינויים, תוספות ונושאי תמיכה אחרים  באופן ישיר ל"
+
+#: ../technical-support.php:201
+msgid "Note that a response e-mail will be sent to the address associated with your profile"
+msgstr "יש לשים לב שהמענה למייל יישלח לכתות המשוייכת לפרופיל שלך"
+
+#: ../technical-support.php:201
+msgid "In order to change that please visit your"
+msgstr "כדי לשנות זאת, יש לבקר ב"
+
+#: ../technical-support.php:201
+msgid "profile page"
+msgstr "עמוד פרופיל"
+
+#: ../technical-support.php:254
+msgid "Title"
+msgstr "כותרת"
+
+#: ../technical-support.php:257
+msgid "Give your issue a short name"
+msgstr "תן לפנייתך שם קצר"
+
+#: ../technical-support.php:261
+msgid "Related to"
+msgstr "בקשר ל"
+
+#: ../technical-support.php:272
+msgid "Pick one that suits your issue."
+msgstr "באיזה נושא?"
+
+#: ../technical-support.php:276
+msgid "Description"
+msgstr "תיאור"
+
+#: ../technical-support.php:279
+msgid "Please describe your issue as detailed as possible. If it's plugin related, please provide the full name of the plugin as well."
+msgstr "יש לתאר את הבקשה בצורה המפורטת ביותר שאפשר. אם מדובר בתוסף, יש לציין בנוסף גם את השם המלא של התוסף."
+
+#: ../technical-support.php:286
+msgid "Send Report"
+msgstr "שליחה"
+
+#: ../technical-support.php:287
+msgid "This report will be sent by e-mail to"
+msgstr "כל הפניות יישלחו באימייל אל"
+
+#: ../technical-support.php:294
+msgid "Support provided by"
+msgstr "תמיכה טכנית ניתנת ע\"י"
+
+#: ../technical-support.php:335
+msgid "Your <strong>Technical Support</strong> settings have been saved."
+msgstr "הגדרות התוסף <strong>Technical Support</strong> נשמרו."
+
+#: ../technical-support.php:352
+msgid "Technical Support Settings"
+msgstr "הגדרות תמיכה טכנית"
+
+#: ../technical-support.php:353
+msgid "Support Provider"
+msgstr "ספק השירות"
+
+#: ../technical-support.php:354
+msgid "Make sure you test e-mail sending after setup. Also note that if WordPress cannot send e-mails, then neither can this plugin, so make sure WordPress e-mail settings are correctly configured. Also note that the e-mails will be sent from"
+msgstr "יש לוודא שליחת אימייל ניסיון לאחר ההתקנה. בנוסף, יש לשים לב שאם וורדפרס לא מסוגלת לשלוח מיילים, גם התוסף לא יוכל, לכן יש לוודא שהגדרות הדואר האלקטרוני של וורדפרס מוגדרות היטב. האימיילים יישלחו מהכתובת"
+
+#: ../technical-support.php:354
+msgid "so make sure you add it to your contacts. If you're encountering problems receiving e-mails, try setting up"
+msgstr "אז וודא שהוספת אותה לרשימת אנשי הקשר. אם נתקלת בבעיות בקבלת מיילים, יש לנסות להגדיר"
+
+#: ../technical-support.php:354
+msgid "for this domain"
+msgstr "לדומיין זה"
+
+#: ../technical-support.php:360
+msgid "Provider Name"
+msgstr "שם הספק"
+
+#: ../technical-support.php:363
+msgid "Use your company name, for instance: Microsoft"
+msgstr "השתמש/י בשם חברה, לדוגמה: מייקרוסופט"
+
+#: ../technical-support.php:367
+msgid "Provider E-mail"
+msgstr "אי-מייל של הספק"
+
+#: ../technical-support.php:370
+msgid "All reports will be sent to this address:"
+msgstr "כל הדוחות יישלחו לכתובת זו:"
+
+#: ../technical-support.php:374
+msgid "Provider Logo"
+msgstr "לוגו הספק"
+
+#: ../technical-support.php:377
+msgid "The URL of the provider logo. Recommended size is 74x22 pixels"
+msgstr "URL של לוגו ספק השירות. מומלץ להשתמש במידות של 74x22 פיקסלים"
+
+#: ../technical-support.php:381
+msgid "Provider URL"
+msgstr "URL של הספק"
+
+#: ../technical-support.php:384
+msgid "The URL of the provider homepage, please start with http"
+msgstr "כתובת אתר הבית של ספק השירות. יש להתחיל ב-http"
+
+#: ../technical-support.php:390
+#: ../technical-support.php:395
+msgid "Topics"
+msgstr "נושאים"
+
+#: ../technical-support.php:390
+msgid "E-mail Formatting"
+msgstr "עיצוב מייל"
+
+#: ../technical-support.php:391
+msgid "Customize your technical support widget: topics and email formatting."
+msgstr "התאמה אישית לוידג'ט תמיכה טכנית: עיצוב הנושאים והמייל."
+
+#: ../technical-support.php:398
+msgid "Provide a return separated list of what topics you provide support on"
+msgstr "רשימת הנושאים בהם ניתנת תמיכה לבחירה בטופס. כל אחד בשורה חדשה."
+
+#: ../technical-support.php:402
+msgid "E-mail Subject"
+msgstr "נושא האי-מייל"
+
+#: ../technical-support.php:405
+msgid "Customize the subject format, use the"
+msgstr "התאמה אישית של מבנה הנושא, יש להשתמש בקיצור"
+
+#: ../technical-support.php:405
+msgid "short-tag, for instance: New Ticket"
+msgstr ". לדוגמה: קריאת שירות חדשה"
+
+#: ../technical-support.php:409
+msgid "Message Format"
+msgstr "פורמט ההודעה"
+
+#: ../technical-support.php:412
+msgid "This is what you will receive by e-mail. Use the following tags:"
+msgstr "זה מה שיגיע במייל. יש להשתמש בתגיות הבאות:"
+
+#: ../technical-support.php:418
+msgid "Save Changes"
+msgstr "שמירת שינויים"
+
+#~ msgid "From:"
+#~ msgstr "מאת:"
+
+#~ msgid "Reply-To:"
+#~ msgstr "מענה ל:"
