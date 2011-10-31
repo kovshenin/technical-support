@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Technical Support\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-31 17:43+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: fxbenard <fxbenard@gmail.com>\n"
+"Language-Team: FxBe <fx@fxbenard.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../technical-support.php:48
+msgid "Theme Layout"
+msgstr "Mise en forme"
+
+#: ../technical-support.php:48
+msgid "Admin Panel"
+msgstr "Panneau administrateur"
+
+#: ../technical-support.php:48
+msgid "Plugin Issue"
+msgstr "Question d'extension"
+
+#: ../technical-support.php:48
+msgid "Core Functionality"
+msgstr "Fonctionnalités principales"
+
+#: ../technical-support.php:48
+msgid "Core Upgrade Request"
+msgstr "Demande de mise à jour des fonctionnalités"
+
+#: ../technical-support.php:48
+msgid "Plugin Upgrade Request"
+msgstr "Demande de mise à jour d'extension"
+
+#: ../technical-support.php:48
+msgid "Theme Modification Request"
+msgstr "Demande de modification de Thème"
+
+#: ../technical-support.php:48
+msgid "General Support"
+msgstr "Support général"
+
+#: ../technical-support.php:48
+msgid "Other (please state below)"
+msgstr "Autre (s'il vous plaît indiquer ci-dessous)"
+
+#: ../technical-support.php:49
+msgid "New Support Ticket:"
+msgstr "Nouveau Ticket de Support :"
+
+#: ../technical-support.php:50
+msgid "Attention! A support ticket has been submitted at"
+msgstr "Attention! Un ticket d'assistance a été soumis au"
+
+#: ../technical-support.php:50
+msgid " Details follow:"
+msgstr "Détails suivant :"
+
+#: ../technical-support.php:50
+msgid "Name:"
+msgstr "Nom&nbsp;:"
+
+#: ../technical-support.php:50
+msgid "Related to:"
+msgstr "Associés à :"
+
+#: ../technical-support.php:50
+msgid "Technical Support for WordPress (http://kovshenin.com/1992)"
+msgstr "Support technique pour WordPress (http://kovshenin.com/1992)"
+
+#: ../technical-support.php:81
+msgid "The <strong>Technical Support</strong> plugin requires configuration."
+msgstr "Le <strong>support technique</strong> de l'extension nécessite une configuration."
+
+#: ../technical-support.php:81
+msgid "Please proceed to the"
+msgstr "S'il vous plaît passer à "
+
+#: ../technical-support.php:81
+msgid "plugin settings page"
+msgstr "page des paramètres de l'extension"
+
+#: ../technical-support.php:144
+msgid "Please don't submit empty reports!"
+msgstr "S'il vous plaît ne pas soumettre des rapports vides !"
+
+#: ../technical-support.php:182
+msgid "Your e-mail has been sent!"
+msgstr "Votre e-mail a été envoyé!"
+
+#: ../technical-support.php:183
+msgid "E-mail could not be sent, please contact support directly:"
+msgstr "E-mail n'a pas pu être envoyé, s'il vous plaît contacter le support directement :"
+
+#: ../technical-support.php:191
+#: ../technical-support.php:311
+msgid "Technical Support"
+msgstr "Support Technique"
+
+#: ../technical-support.php:203
+msgid "Please use this form to report encountered bugs, issues and other support requests directly to"
+msgstr "S'il vous plaît utiliser ce formulaire pour signaler les bugs rencontrés, les questions et les autres demandes de soutien directement à"
+
+#: ../technical-support.php:203
+msgid "Note that a response e-mail will be sent to the address associated with your profile"
+msgstr "Notez qu'une réponse par e-mail sera envoyée à l'adresse associée à votre profil"
+
+#: ../technical-support.php:203
+msgid "In order to change that please visit your"
+msgstr "Afin de changer cela s'il vous plaît consultez votre"
+
+#: ../technical-support.php:203
+msgid "profile page"
+msgstr "page de profil"
+
+#: ../technical-support.php:256
+msgid "Title"
+msgstr "Titre"
+
+#: ../technical-support.php:259
+msgid "Give your issue a short name"
+msgstr "Donnez  un nom court à votre question"
+
+#: ../technical-support.php:263
+msgid "Related to"
+msgstr "Lié à"
+
+#: ../technical-support.php:274
+msgid "Pick one that suits your issue."
+msgstr "Choisissez celui qui convient à votre problème."
+
+#: ../technical-support.php:278
+msgid "Description"
+msgstr "Description"
+
+#: ../technical-support.php:281
+msgid "Please describe your issue as detailed as possible. If it's plugin related, please provide the full name of the plugin as well."
+msgstr "S'il vous plaît décrivez votre problème de la façon la plus détaillée possible. Si c'est lié à une extension, s'il vous plaît indiquer son nom complet."
+
+#: ../technical-support.php:288
+msgid "Send Report"
+msgstr "Envoyer un rapport"
+
+#: ../technical-support.php:289
+msgid "This report will be sent by e-mail to"
+msgstr "Ce rapport sera envoyé par e-mail à"
+
+#: ../technical-support.php:296
+msgid "Support provided by"
+msgstr "Aide fourni par"
+
+#: ../technical-support.php:337
+msgid "Your <strong>Technical Support</strong> settings have been saved."
+msgstr "Les paramètres de votre <strong> Support Technique </strong> ont été enregistré."
+
+#: ../technical-support.php:354
+msgid "Technical Support Settings"
+msgstr "Réglages Support Technique"
+
+#: ../technical-support.php:355
+msgid "Support Provider"
+msgstr "Fournisseur d'aide"
+
+#: ../technical-support.php:356
+msgid "Make sure you test e-mail sending after setup. Also note that if WordPress cannot send e-mails, then neither can this plugin, so make sure WordPress e-mail settings are correctly configured. Also note that the e-mails will be sent from"
+msgstr "Assurez-vous d'avoir tester l'envoi du courrier électronique après la configuration. Notez que si WordPress ne réussit pas envoyer des e-mails, cette extension non plus, assurez vous que les paramètres de messagerie de WordPress soient correctement configurés. A noter également que les e-mails seront envoyés à partir de"
+
+#: ../technical-support.php:356
+msgid "so make sure you add it to your contacts. If you're encountering problems receiving e-mails, try setting up"
+msgstr "alors assurez-vous de l'ajouter à vos contacts. Si vous rencontrez des problèmes de réception des e-mails, essayez la création"
+
+#: ../technical-support.php:356
+msgid "for this domain"
+msgstr "pour ce domain"
+
+#: ../technical-support.php:362
+msgid "Provider Name"
+msgstr "Nom du fournisseur"
+
+#: ../technical-support.php:365
+msgid "Use your company name, for instance: Microsoft"
+msgstr "Utilisez le nom de votre société, par exemple : Microsoft"
+
+#: ../technical-support.php:369
+msgid "Provider E-mail"
+msgstr "Fournisseur E-mail"
+
+#: ../technical-support.php:372
+msgid "All reports will be sent to this address:"
+msgstr "Tous les rapports seront envoyés à cette adresse :"
+
+#: ../technical-support.php:376
+msgid "Provider Logo"
+msgstr "Fournisseur du Logo"
+
+#: ../technical-support.php:379
+msgid "The URL of the provider logo. Recommended size is 74x22 pixels"
+msgstr "L'URL du logo fournisseur. La taille recommandée est 74x22 pixels"
+
+#: ../technical-support.php:383
+msgid "Provider URL"
+msgstr "URL du fournisseur"
+
+#: ../technical-support.php:386
+msgid "The URL of the provider homepage, please start with http"
+msgstr "L'URL de la page d'accueil fournisseur, s'il vous plaît commencer par http"
+
+#: ../technical-support.php:392
+#: ../technical-support.php:397
+msgid "Topics"
+msgstr "Sujets"
+
+#: ../technical-support.php:392
+msgid "E-mail Formatting"
+msgstr "Formatage courriel"
+
+#: ../technical-support.php:393
+msgid "Customize your technical support widget: topics and email formatting."
+msgstr "Personnalisez votre widget de support technique : les sujets et le formatage de la messagerie."
+
+#: ../technical-support.php:400
+msgid "Provide a return separated list of what topics you provide support on"
+msgstr "Fournir une liste séparée par des sauts de ligne des sujets auxquels vous fournissez une aide"
+
+#: ../technical-support.php:404
+msgid "E-mail Subject"
+msgstr "Objet du courriel"
+
+#: ../technical-support.php:407
+msgid "Customize the subject format, use the"
+msgstr "Personnaliser le format de l'objet, utilisez"
+
+#: ../technical-support.php:407
+msgid "short-tag, for instance: New Ticket"
+msgstr "balise-courte, par exemple : Nouveau ticket"
+
+#: ../technical-support.php:411
+msgid "Message Format"
+msgstr "Format de Message"
+
+#: ../technical-support.php:414
+msgid "This is what you will receive by e-mail. Use the following tags:"
+msgstr "C'est ce que vous recevrez par e-mail. Utilisez les balises suivantes:"
+
+#: ../technical-support.php:420
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
